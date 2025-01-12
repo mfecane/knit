@@ -1,0 +1,24 @@
+:root {
+	--color-darker: #1a1b1b;
+	--color-dark: #27292a;
+	--color-less-dark: #424546;
+	--color-lesser-dark: #686e71;
+	--color-light: #e6f2f8;
+	--color-dimmed: #c8d1d6;
+	--color-accent: #cf203a;
+}
+
+html,
+body {
+	font-family: Montserrat;
+	color: white;
+	background: black;
+}
+
+body h3 {
+	--fontsize: 24px;
+	margin-bottom: 10px;
+	font-weight: 400;
+	font-size: var(--fontsize);
+	line-height: var(--fontsize);
+}

@@ -1,0 +1,31 @@
+{
+	"setup_row": {
+		"repeat": false,
+		"annotation": "Setup row",
+		"groups": [
+			{ "repeat": false, "stitches": [{ "name": "Sl1p wyib" }] },
+			{ "repeat": true, "stitches": [{ "name": "sl1p wyf" }, { "name": "yo" }, { "name": "k1" }] },
+			{ "repeat": false, "stitches": [{ "name": "sl1p wyif" }, { "name": "yo" }, { "name": "k1tbl" }] }
+		]
+	},
+	"rows": [
+		{
+			"repeat": true,
+			"annotation": "Row 1",
+			"groups": [
+				{ "repeat": false, "stitches": [{ "name": "SL1p wyif" }] },
+				{ "repeat": true, "stitches": [{ "name": "k2tog" }, { "name": "sl1p wyif" }, { "name": "yo" }] },
+				{ "repeat": false, "stitches": [{ "name": "k2tog" }, { "name": "p1" }] }
+			]
+		},
+		{
+			"repeat": false,
+			"annotation": "Row 2",
+			"groups": [
+				{ "repeat": false, "stitches": [{ "name": "SL1p wyib" }] },
+				{ "repeat": true, "stitches": [{ "name": "sl1p wyf" }, { "name": "yo" }, { "name": "k2tog" }] },
+				{ "repeat": false, "stitches": [{ "name": "sl1p wyif" }, { "name": "yo" }, { "name": "k1tbl" }] }
+			]
+		}
+	]
+}
